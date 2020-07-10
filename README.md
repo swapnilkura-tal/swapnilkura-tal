@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 📫 How to reach me: ...swapnil.kura@taletica.com
+- 🌱 I’m currently learning ...Deep Learning
+- 👯 I’m looking to collaborate on ...Machine Learning Applications in Startups
+
 <!--
 **swapnilkura-tal/swapnilkura-tal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
