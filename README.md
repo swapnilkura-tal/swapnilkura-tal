@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: ...swapnil.kura@taletica.com
+- 🔭 I have worked on solving problems using Machine Learning in different products
 - 🌱 I’m currently learning ...Deep Learning
 - 👯 I’m looking to collaborate on ...Machine Learning Applications in Startups
 
